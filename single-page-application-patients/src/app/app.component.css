@@ -1,0 +1,21 @@
+table {
+    width: 90%
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+mat-header-cell, mat-cell {
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1 {
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
